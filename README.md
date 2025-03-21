@@ -1,3 +1,3 @@
-# Seattle Housing Sales; Data Mining, Predictive Modelling & ML
+# Housing Sales in Seattle; Data Mining, Predictive Modelling & ML
 
 Viviendas
